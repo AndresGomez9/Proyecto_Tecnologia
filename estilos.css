@@ -1,0 +1,45 @@
+.enlace:active {
+  background-color: #FF0000
+}
+
+.enlace:link {
+  color: blue;
+}
+
+.enlace:visited {
+  color: #b1b1b1;
+}
+
+.enlace:hover {
+  color: orange;
+}
+
+
+.Caja1{
+  background:yellow;
+  width: 1000px;
+  height: 100px;
+  padding: 25px;
+  padding-left: 5px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  border: 3px solid black;
+  margin: 5px;
+
+}
+
+
+.Cajainicio{
+  background:#E6E6FA;
+  width: 800px;
+  height: 100px;
+  padding: 25px;
+  padding-left: 5px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  border: 3px;
+  margin: 5px;
+
+}
